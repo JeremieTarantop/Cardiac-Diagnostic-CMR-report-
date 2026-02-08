@@ -4,6 +4,8 @@ ECG to CMR Report Generator — MedGemma 4B
 Same pipeline as e_to_c_llama1.py but uses Google's MedGemma 4B (medical-focused model).
 Runs locally via Hugging Face Transformers. No API calls.
 
+Paths: Same as e_to_c_llama1 — PROJECT_ROOT = repo root; relative paths in CSVs work on any machine.
+
 Speed: On CPU only, a 4B model is very slow (~minutes per token). This script uses
 Metal (MPS) on Apple Silicon when available for much faster inference, and defaults
 to 128 max tokens (use --max-tokens to change).
@@ -50,6 +52,8 @@ def _get_ecg_file_path(ecg_id: int) -> Path:
     if match.empty:
         raise FileNotFoundError(f"ecg_id={ecg_id} not in {ECG_LABELS_CSV}")
     path = Path(match.iloc[0]["ecg_file"])
+    if not path.is_absolute():
+        path = PROJECT_ROOT / path
     if not path.exists():
         raise FileNotFoundError(f"ECG file missing: {path}")
     return path

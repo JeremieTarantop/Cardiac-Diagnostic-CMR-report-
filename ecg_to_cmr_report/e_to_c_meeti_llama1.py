@@ -5,6 +5,8 @@ Same CMR prompt and pipeline as e_to_c_llama1.py, but for MEETI records (Zenodo 
 Inputs to the prompt: (i) raw ECG summary from signal [same extraction as e_to_c_llama1],
 (ii) MEETI report + any FeatureDB parameters from .mat, (iii) MEETI LLM_Interpretation.
 
+Paths: PROJECT_ROOT = repo root. --mat-path and --ecg-npy can be relative to repo root (portable).
+
 Usage:
     USE_TRANSFORMERS=1 python -m ecg_to_cmr_report.e_to_c_meeti_llama1 --mat-path "MEETI/p1099/p10990038/s40161580/40161580.mat"
     USE_TRANSFORMERS=1 python -m ecg_to_cmr_report.e_to_c_meeti_llama1 --mat-path "MEETI/.../40000369.mat" --ecg-npy /path/to/raw_ecg.npy
@@ -95,6 +97,10 @@ def load_meeti_record(mat_path: Path, ecg_npy_path: Optional[Path] = None) -> di
     return record
 
 
+# Max length for LLM_Interpretation in prompt to keep context short (faster generation)
+MAX_LLM_INTERP_CHARS = 1200
+
+
 def build_prompt(record: dict) -> str:
     """
     Same CMR prompt structure as e_to_c_llama1: expert instruction, ECG data, then ask for
@@ -102,6 +108,8 @@ def build_prompt(record: dict) -> str:
     """
     report = record["report"]
     llm_interp = record["LLM_Interpretation"]
+    if len(llm_interp) > MAX_LLM_INTERP_CHARS:
+        llm_interp = llm_interp[:MAX_LLM_INTERP_CHARS] + " [...]"
     signal_summary = record.get("ecg_signal_summary", "(not available)")
     meeti_params = record.get("meeti_params_summary", "(not available)")
 
@@ -117,14 +125,14 @@ MEETI extracted parameters (FeatureDB, if available):
 ECG signal (12 leads, voltage in mV - min, max, mean per lead):
 {signal_summary}
 
-Write a CMR report with these sections: Clinical Indication, Findings (brief), and Conclusion. Use both the metadata and the signal amplitudes to inform your report (e.g. low voltage in leads may suggest pericardial effusion). Keep it concise (3-5 sentences total). Do not repeat the same phrase. Do not invent specific numbers (e.g. ejection fraction).
+Write a CMR report with these sections: Clinical Indication, Findings (brief), and Conclusion. Use both the metadata and the signal amplitudes to inform your report (e.g. low voltage in leads may suggest pericardial effusion). Keep it concise (3-5 sentences total). Do not repeat the same phrase. Do not invent specific numbers (e.g. ejection fraction). Don't do Introduction.
 
 CMR Report:
 """
     return prompt
 
 
-def generate_cmr_report(mat_path: Path, ecg_npy_path: Optional[Path] = None, max_tokens: int = 256) -> str:
+def generate_cmr_report(mat_path: Path, ecg_npy_path: Optional[Path] = None, max_tokens: int = 128) -> str:
     record = load_meeti_record(mat_path, ecg_npy_path)
     prompt = build_prompt(record)
     return call_llama_transformers(prompt, max_tokens=max_tokens)
@@ -154,7 +162,7 @@ def main():
         default=None,
         help="Optional path to raw ECG .npy (shape (N, 12)) for same extraction as e_to_c_llama1",
     )
-    parser.add_argument("--max-tokens", type=int, default=256, help="Max new tokens (default 256)")
+    parser.add_argument("--max-tokens", type=int, default=128, help="Max new tokens (default 128; lower = faster)")
     args = parser.parse_args()
 
     mat_path = Path(args.mat_path)

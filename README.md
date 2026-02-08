@@ -21,15 +21,15 @@ pip install transformers torch pandas numpy
 USE_TRANSFORMERS=1 python -m ecg_to_cmr_report.e_to_c_llama1 --ecg-id 2
 ```
 
-## Run on Google Colab (GPU)
+## Run on Google Colab (GPU) — no data upload
 
-For **much faster** generation (TinyLlama or MedGemma on GPU):
+**Recommended:** Use the **test-data** notebook. It uses the small PTB test set already in the repo — you don’t download or upload anything.
 
-1. Open [Colab](https://colab.research.google.com/).
+1. **Open in Colab:** [**Open CMR_report_Colab_TestData.ipynb**](https://colab.research.google.com/github/JeremieTarantop/Cardiac-Diagnostic-CMR-report-/blob/main/notebooks/CMR_report_Colab_TestData.ipynb)
 2. **Runtime → Change runtime type → T4 GPU** (or better).
-3. Open the notebook **`notebooks/CMR_report_Colab_GPU.ipynb`** from this repo (e.g. clone the repo in a cell, then open it), or run the same steps as in that notebook.
+3. **Run all cells** in order. The notebook clones the repo, converts `data/ptbxl_test/` into the format the pipeline needs, and runs CMR generation.
 
-The notebook clones this repo, installs dependencies, sets `USE_CUDA=1`, and runs the CMR pipeline on GPU. For MedGemma you’ll need a Hugging Face token (e.g. in a Colab secret).
+**If you have your own data:** Use [CMR_report_Colab_GPU.ipynb](https://colab.research.google.com/github/JeremieTarantop/Cardiac-Diagnostic-CMR-report-/blob/main/notebooks/CMR_report_Colab_GPU.ipynb) and upload or mount your `data/` (see that notebook).
 
 ## Data (not in repo)
 

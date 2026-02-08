@@ -4,6 +4,9 @@ ECG to CMR Report Generator
 Uses PTB-XL data (metadata + 12-lead ECG signal) and a local LLM to produce a CMR-style report.
 All processing is local (no API), suitable for IRB/healthcare data.
 
+Paths: PROJECT_ROOT is the folder containing ecg_to_cmr_report/ (repo root). Data paths in CSVs
+can be relative to that (e.g. data/ptbxl_pclr_format/...) so the same repo works on Mac, Colab, Linux.
+
 Initial approach: llama-cpp-python + GGUF model. This caused a segmentation fault on macOS
 (Metal backend). We therefore use the Transformers backend by default (USE_TRANSFORMERS=1).
 
@@ -49,6 +52,8 @@ def _get_ecg_file_path(ecg_id: int) -> Path:
     if match.empty:
         raise FileNotFoundError(f"ecg_id={ecg_id} not in {ECG_LABELS_CSV}")
     path = Path(match.iloc[0]["ecg_file"])
+    if not path.is_absolute():
+        path = PROJECT_ROOT / path
     if not path.exists():
         raise FileNotFoundError(f"ECG file missing: {path}")
     return path
@@ -137,20 +142,32 @@ def _get_model_path() -> Path:
     return DEFAULT_GGUF
 
 
+def _get_device_llama():
+    """Prefer CUDA (Colab), then MPS (Apple Silicon), then CPU."""
+    import torch
+    if os.environ.get("USE_CUDA") and torch.cuda.is_available():
+        return "cuda"
+    if getattr(torch.backends, "mps", None) and torch.backends.mps.is_available():
+        return "mps"
+    return "cpu"
+
+
 def call_llama_transformers(prompt: str, max_tokens: int = 256) -> str:
     """
-    Call local model via Hugging Face Transformers (CPU, no Metal – avoids segfault on Mac).
+    Call local model via Hugging Face Transformers.
+    Uses CUDA on Colab, MPS (Metal) on Apple Silicon, or CPU.
 
     Requires: pip install transformers torch
     """
     global _transformers_model, _transformers_tokenizer
     if _transformers_model is None:
         from transformers import AutoModelForCausalLM, AutoTokenizer
+        import torch
         model_id = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
         print(f"Loading {model_id} (first time may download ~2GB)...")
         _transformers_tokenizer = AutoTokenizer.from_pretrained(model_id)
         _transformers_model = AutoModelForCausalLM.from_pretrained(model_id)
-        _device = "cuda" if os.environ.get("USE_CUDA") and __import__("torch").cuda.is_available() else "cpu"
+        _device = _get_device_llama()
         _transformers_model = _transformers_model.to(_device)
         print(f"Model loaded on {_device}.")
 
