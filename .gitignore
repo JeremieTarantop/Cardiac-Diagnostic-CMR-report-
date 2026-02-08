@@ -1,7 +1,6 @@
 # Data (large — download separately or use Colab upload)
 MEETI/
 data/ptbxl_pclr_format/
-data/ptbxl_test/
 data/ptbxl_database.csv
 
 # Models (downloaded by download_model or Hugging Face)
