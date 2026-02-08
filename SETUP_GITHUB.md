@@ -1,6 +1,6 @@
 # Push this project to GitHub
 
-Your repo: **https://github.com/tarantop/Cardiac-Diagnostic-CMR-report-.git**
+Your repo: **https://github.com/JeremieTarantop/Cardiac-Diagnostic-CMR-report-.git**
 
 Run these commands from the **project root** (the folder that contains `ecg_to_cmr_report`, `data`, `README.md`, etc.):
 
@@ -11,7 +11,7 @@ cd "/Users/tarantojeremie/Desktop/Research MIT"
 git init
 
 # 2. Add the GitHub remote
-git remote add origin https://github.com/tarantop/Cardiac-Diagnostic-CMR-report-.git
+git remote add origin https://github.com/JeremieTarantop/Cardiac-Diagnostic-CMR-report-.git
 
 # 3. Stage files (.gitignore already excludes MEETI, large data, models, outputs)
 git add .
