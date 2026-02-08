@@ -1,0 +1,49 @@
+# Data (large — download separately or use Colab upload)
+MEETI/
+data/ptbxl_pclr_format/
+data/ptbxl_test/
+data/ptbxl_database.csv
+
+# Models (downloaded by download_model or Hugging Face)
+models/*.gguf
+models/*.bin
+models/*.safetensors
+models/*.msgpack
+
+# Generated outputs
+ecg_to_cmr_report/outputs_llama1/
+ecg_to_cmr_report/outputs_meeti_llama1/
+ecg_to_cmr_report/outputs_medgemma4b/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Env and secrets
+.env
+.env.local
+*.pem
+
+# IDE and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional: uncomment to keep repo smaller
+# data/ptbxl_with_labels/
+# Admin/
+# Litterature Review/
+# Weekly updates/
+# ml4h/

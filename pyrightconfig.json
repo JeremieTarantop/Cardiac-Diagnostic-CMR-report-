@@ -1,0 +1,4 @@
+{
+  "include": ["ecg_to_cmr_report"],
+  "exclude": ["MEETI", ".venv", "**/__pycache__"]
+}

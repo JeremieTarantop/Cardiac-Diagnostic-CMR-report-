@@ -1,0 +1,11 @@
+{
+  "total_records": 50,
+  "available_labels": {
+    "age": 50,
+    "sex": 50,
+    "height": 0,
+    "weight": 41,
+    "scp_codes": 50,
+    "heart_axis": 15
+  }
+}
