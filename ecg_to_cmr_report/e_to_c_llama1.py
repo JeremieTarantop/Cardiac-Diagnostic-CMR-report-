@@ -152,7 +152,7 @@ def _get_device_llama():
     return "cpu"
 
 
-def call_llama_transformers(prompt: str, max_tokens: int = 512) -> str:
+def call_llama_transformers(prompt: str, max_tokens: int = 1024) -> str:
     """
     Call local model via Hugging Face Transformers.
     Uses CUDA on Colab, MPS (Metal) on Apple Silicon, or CPU.
