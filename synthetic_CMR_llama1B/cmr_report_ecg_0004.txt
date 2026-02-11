@@ -1,8 +1,0 @@
-Clinical Indications: The patient presented for evaluation of chest pain and dyspnea. They were found to have normal sinus rhythm but had an elevated heart rate due to stress. This is consistent with myocardial infarction or coronary artery disease.
-
-Findings:
-- Sinus Rhythm Normale EKG: The ECG shows no abnormalities except for a sinus rhythm.
-- SCP Diagnosis Codes: The SCP diagnostic code indicates that there was no evidence of acute myocardial infarction or coronary artery disease.
-
-Conclusion:
-Based on the findings from this ECG, we can conclude that the patient has a normal sinus rhythm and does not require immediate medical attention. However, further investigation into their symptoms would be necessary to determine if they have any underlying conditions that could cause a sudden change in their heartbeat.

@@ -1,4 +1,0 @@
-Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris and elevated blood pressure. He is currently being treated with beta blockers and ACE inhibitors for his hypertension. The patient's ECG shows evidence of left ventricular hypertrophy (LVH) and right atrial enlargement (RAE). These findings suggest that he may have HOCM due to an underlying heart disease.
-
-Findings (brief):
-The patient's LVH is characterized by a prominent ST segment elevation in leads V1-V3, as well as a T wave inversion in leads IV and V. There is also a prominent R wave in lead V1, which suggests leftward shift of the QRS complex. In addition, there is a prominent P wave in lead V1, indicating left bundle branch block. Lead aVR shows a prominent ST depression in leads V1-V3, suggesting left anterior descending artery obstruction. Leads V1-V3 show a prominent ST segment elevation in leads

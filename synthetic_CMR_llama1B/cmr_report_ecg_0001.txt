@@ -1,6 +1,0 @@
-Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris, dyslipidemia, and elevated troponin levels. He is currently being treated with beta blocker therapy for hypertension and statins for hypertriglyceridemia. The patient's ECG shows evidence of left ventricular hypertrophy (LVH) with normal LVEF but increased RBBB and ST segment depression. His CMR report confirms this finding by showing enlarged myocardium with reduced perfusion in the right atrium and right ventricle. There is also evidence of pericardial effusion (PCE) with decreased PVC amplitude in leads V1-V6. These findings support the clinical indications and further confirm HOCM as the underlying etiology.
-
-Findings (brief):
-- Left Ventricular Hypertrophy (LVH) with Normal LVEF
-- Right Atrial Enlargement (RAE)
-- Reduced Perfusion in
