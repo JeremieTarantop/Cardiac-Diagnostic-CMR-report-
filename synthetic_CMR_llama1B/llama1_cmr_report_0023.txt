@@ -1,0 +1,5 @@
+Clinical Indication: This patient has been diagnosed with atrial fibrillation (AF) and is being evaluated for potential catheter ablation of AF. The patient's age is 56 years old, and she is a female. She presents with symptoms such as palpitations, dizziness, and fatigue. Her medical history includes hypertension, hyperlipidemia, and smoking. Physical examination reveals no significant findings.
+
+Findings (brief): The ECG shows evidence of AF (I,II,III,aVR,aVL,aVF,V1,V2,V3,V4,V5,V6) with low voltage in leads I and II (min=-0.37 mV, max=0.99 mV, mean=-0.00 mV). There is also evidence of pericardial effusion (low volume in leads IV and V).
+
+Conclusion: Given the clinical indication of AF and the presence of pericardial effusion, we recommend that this patient undergoes catheter ablation of AF. We will perform an electro

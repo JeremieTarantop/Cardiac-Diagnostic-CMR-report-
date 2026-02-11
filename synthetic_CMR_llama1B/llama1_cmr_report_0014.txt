@@ -1,0 +1,9 @@
+Clinical Indication: This patient has been diagnosed with atrial fibrillation. The findings of this ECG indicate that there is evidence of left ventricular hypertrophy and pericardial effusion. These findings suggest an increased risk for future arrhythmia events.
+
+Findings (brief):
+- Sinus rhythm: normal sinus rhythm
+- Supraventricular tachycardia: sinus rhythm, T wave inversions in leads V1-V4, ST segment depression in leads V1-V4
+- Ventricular tachycardia: sinus rhythm, QRS complexes in leads V1-V4, ST segment elevations in leads V1-V4
+- Atrioventricular block: sinus rhythm, T waves in leads V1-V4, ST segments in leads V1-V4
+- Left bundle branch block: sinus rhythm, T waves in leads V1-V4, ST segments in leads V1-V4
+- Right bundle branch block: sinus rhythm, T waves in leads V1-V4, ST segments in

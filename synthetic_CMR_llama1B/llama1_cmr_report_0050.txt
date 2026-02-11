@@ -1,0 +1,13 @@
+Clinical Indication: This patient has an elevated risk of sudden death due to left ventricular dysfunction. The findings indicate that there is likely a significant amount of pericardial fluid present.
+
+Findings (brief):
+- Sinus rhythm with normal QRS complexes
+- Left bundle branch block
+- Right axis deviation
+- Inferior wall motion abnormality
+- T wave inversion in leads V1-V4
+- Wide ST segment in leads V1-V4
+- Normal LVEF
+
+Conclusion:
+Based on this ECG, we can conclude that the patient's heart sounds appear normal, but their electrocardiogram shows evidence of left ventricular dysfunction. We also note that they have a history of prior myocardial infarction and a high risk for sudden death due to left ventricular dysfunction. It is recommended that further evaluation be performed to determine the cause of the arrhythmia and any underlying conditions that could contribute to its progression.

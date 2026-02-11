@@ -1,0 +1,7 @@
+Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris, dyspnea upon exertion, and left ventricular systolic dysfunction. The patient's ECG shows evidence of HOCM including an irregular rhythm, ST segment depression, and T wave inversions. He also has signs of left heart failure such as right axis deviation, decreased left ventricular filling pressures, and increased right atrial pressure. These findings support the clinician's suspicion that he has HOCM.
+
+Findings (brief):
+The patient's ECG reveals evidence of HOCM including an irregular rhythm, ST segment depression, and T wave inversions. His electrolyte profile is normal except for a high potassium level.
+
+Conclusion:
+Based on this patient's ECG and electrolytes, we can conclude that he has HOCM. We recommend further evaluation by a cardiologist or interventional cardiologist who specializes in treating patients with HOCM.

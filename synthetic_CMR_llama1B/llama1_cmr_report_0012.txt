@@ -1,0 +1,5 @@
+Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris, dyspnea upon exertion, and left ventricular systolic dysfunction. He is currently being treated with beta blockers and ACE inhibitors for his hypertension. The patient's family history includes two first cousins who have died from sudden cardiac arrest due to HOCM.
+
+Findings (brief): The patient's ECG shows sinus bradykardie sonst normales ekg, indicating that he has normal sinus rhythm despite having an elevated heart rate. His SCP diagnostic code indicates that he has hypertrophic cardiomyopathy.
+
+Conclusion: Based on this patient's clinical indications and findings, we can conclude that he likely has hypertrophic cardiomyopathy. We recommend further evaluation by a cardiologist or interventional cardiologist to confirm our suspicion.

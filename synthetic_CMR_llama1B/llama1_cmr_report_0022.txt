@@ -1,0 +1,5 @@
+Clinical Indication: This patient has an atrial septal defect (ASD) that is causing right heart failure due to left ventricular hypertrophy (LVH). The ASD is located between the right atrium and right ventricle of the heart. It allows blood from the right side of the body into the left side of the body during systole but prevents blood flow backward during diastole. LVH occurs when there is a decrease in the size or function of the left ventricle. Left ventricular hypertrophy can cause symptoms such as fatigue, dyspnea, and chest pain.
+
+Findings (brief): The findings indicate a normal electrocardiogram (ECG) with no significant changes. However, the patient's ECG shows evidence of an atrial fibrillation (AF) with sinus rhythm. AF is characterized by rapid and irregular beats without any detectable pause between them. In this case, the patient had a sinus rhythm with an irregular beat pattern.
+
+Conclusion: The patient's ECG indicates a diagnosis of atrial fibrillation with sinus rh

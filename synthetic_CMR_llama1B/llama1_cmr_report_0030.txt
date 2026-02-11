@@ -1,0 +1,13 @@
+Clinical Indication: This patient has an abnormal ECG that suggests left ventricular hypertrophy due to LVH. The findings of low voltage in leads indicate pericardial effusion.
+
+Findings (brief):
+- Low voltage in leads indicates pericardial effusion
+- Sinus rhythm is unspecified but likely normal
+- Left ventricle is enlarged with a systolic function index of 100%
+- Right atrium is hypokinesis with a QRS duration of 1 second
+- Right ventricle is enlarged with a SVT of 0.0 seconds
+- Left atrial appendage is hyperactive with a T wave inversion in leads V1-V3
+- Atria and ventricles have normal electrical conduction velocities
+
+Conclusion:
+Based on this ECG, we can conclude that the patient's heart is experiencing left ventricular hypertrophy due to LVH. We also note that there is evidence of pericardial effusion, which could be contributing to the heart's dysfunction. However, further evaluation will

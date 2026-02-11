@@ -1,0 +1,5 @@
+Clinical Indication: This patient has been referred for evaluation of suspected PSVT due to left ventricular hypertrophy. The clinician is concerned about the possibility of an arrhythmogenic right ventricle (ARVC) or atrial fibrillation (AF) causing this PSVT.
+
+Findings (brief): The ECG shows evidence of PSVT with sinus rhythm (SRS) and ventricular tachycardia (VT) with a QTc interval of 45 ms (QTcF = 45 ms). There is also evidence of left bundle branch block (LBBB) and right axis deviation (RAD). The SCP diagnostic code suggests that there is a potential for ARVC or AF.
+
+Conclusion: Given the findings, we recommend further investigation into the presence of ARVC/AF using additional testing such as electrophysiology studies (EPs) or Holter monitoring. We will follow up within one week to assess any changes in the ECG pattern and determine if further testing is necessary. If no significant change occurs after two weeks, we will proceed with definitive management options based on

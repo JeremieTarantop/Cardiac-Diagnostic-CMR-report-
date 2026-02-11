@@ -1,0 +1,8 @@
+Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of chest pain, dyspnea, and exercise intolerance. He is currently being treated with beta blockers and ACE inhibitors for his hypertension. The patient's family history includes two first cousins who also have HOCM.
+
+Findings (brief): There was no evidence of pericardial effusion or tamponade. However, there were significant left ventricular strain patterns consistent with HOCM.
+
+Conclusion: Based on this ECG, we can conclude that the patient has HOCM due to hypertrophy of the right atrium and right ventricle. We recommend further evaluation with an echocardiogram to confirm our clinical suspicion.
+
+References:
+[Insert references here]

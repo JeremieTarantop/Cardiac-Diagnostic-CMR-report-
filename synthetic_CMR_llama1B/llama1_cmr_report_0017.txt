@@ -1,0 +1,14 @@
+Clinical Indication: This patient has an elevated risk of sudden death due to left ventricular dysfunction. The findings indicate that there is significant pericardial effusion, which suggests a potential for right heart failure.
+
+Findings (brief):
+- Left atrial appendage occlusion (LAO) detected by TTE (Transthoracic Electrocardiography)
+- Right atrium enlargement (RAE) detected by TTE
+- Left ventricle hypertrophy (LVEF) < 50% detected by MRI
+- Pericardium thickness > 1 cm detected by CT scan
+- Significant pericardial effusion detected by CMR
+
+Conclusion:
+- Based on this clinical indication, we recommend immediate referral to a cardiologist who can perform further evaluation and management strategies.
+- We also note that LAO and RAE have been previously reported in patients with similar clinical features.
+- In addition, LVEF was found to be significantly reduced compared to normal values, indicating possible left ventricular dysfunction.
+- Finally, the presence of

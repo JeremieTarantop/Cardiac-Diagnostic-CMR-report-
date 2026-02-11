@@ -1,0 +1,8 @@
+Clinical Indication: This patient has been diagnosed with atrial fibrillation (AF) and is being evaluated for potential catheter ablation of AF. The patient's age is 56 years old, and she is a female. She presents with symptoms such as palpitations, fatigue, and shortness of breath. Her medical history includes hypertension, hyperlipidemia, and smoking. Physical examination reveals no significant findings.
+
+Findings (brief): The electrocardiogram shows sinus rhythm with normal QRS complexes and sinus node activity. There is evidence of left ventricular hypertrophy (left axis deviation >+/- 1 mm) and right ventricular enlargement (right axis deviation < +/- 1 mm). No other significant findings were noted.
+
+Conclusion: Given the clinical indication of AF and the presence of left ventricular hypertrophy and right ventricular enlargement, we recommend that this patient undergo catheter ablation of AF. A follow-up appointment will be scheduled within two weeks after the procedure.
+
+References:
+[

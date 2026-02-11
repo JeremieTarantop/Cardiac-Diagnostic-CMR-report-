@@ -1,0 +1,10 @@
+Clinical Indication: This patient has been diagnosed with atrial fibrillation due to sinus arrhythmia. The findings of this ECG indicate that there is evidence of left ventricular hypertrophy, which suggests an increased workload for the heart muscle. Additionally, there is evidence of pericardial effusion, indicating fluid accumulation within the pericardium. These findings suggest that further evaluation by a cardiologist or interventional radiologist may be warranted.
+
+Findings (brief):
+- Sinus rhythm: normal sinus rhythm
+- Atrioventricular node dysfunction: NORMAL
+- Left ventricle systolic function: NORMAL
+- Right ventricle systolic function: NORMAL
+- Left ventricle end-diastolic volume: MINUS 0.57 ml/m²
+- Left ventricle end-systolic volume: MAXIMUM 1.11 ml/m²
+- Pericardial effusion: LOWER THAN THE MEAN LEAD AVERAGE OF

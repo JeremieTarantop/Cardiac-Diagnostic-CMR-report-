@@ -1,0 +1,10 @@
+Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris and elevated troponin levels. He is currently being treated with beta blockers and ACE inhibitors for his hypertension. The patient's family history includes two first cousins who also have HOCM.
+
+Findings (brief): There was no evidence of pericardial effusion or tamponade. However, there were several abnormalities that warrant further investigation:
+
+- Sinus rhythm: normal sinus rhythm with no signs of atrial fibrillation or flutter.
+- Left ventricular systolic function: left ventricle had an ejection fraction of 50%, which is within the normal range for this population.
+- Right ventricular systolic function: right ventricle had an ejection fraction of 50%, which is within the normal range for this population.
+- Cardiovascular magnetic resonance findings: sinus rhythm, normal LVEF, and normal RV function.
+
+Con

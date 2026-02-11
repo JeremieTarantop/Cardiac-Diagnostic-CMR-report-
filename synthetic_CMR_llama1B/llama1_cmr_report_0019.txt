@@ -1,0 +1,11 @@
+Clinical Indication: This patient has been diagnosed with atrial fibrillation due to left ventricular hypertrophy. The patient is currently being treated with anticoagulation therapy for this condition.
+
+Findings (brief): The ECG shows evidence of right axis deviation, which suggests an underlying structural abnormality such as mitral regurgitation or tricuspid valve stenosis. A normal sinus rhythm indicates that there is no significant heart disease present.
+
+Conclusion: Given the clinical indications and findings, we recommend further evaluation by a cardiologist who can perform appropriate testing to confirm the presence of structural heart disease. We will follow up with the patient after the appointment to discuss treatment options and monitor progress.
+
+Signal Amplitude Analysis:
+
+aVR: Low amplitude (<0.5 mV) in leads V1-V5, suggesting left atrium enlargement. Higher amplitude (>0.5 mV) in leads V6-V10, indicating increased left ventricular filling pressure.
+
+aVL: Medium amplitude (between 0.5 and 1.0

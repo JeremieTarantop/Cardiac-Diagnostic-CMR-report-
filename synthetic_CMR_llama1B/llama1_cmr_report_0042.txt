@@ -1,0 +1,7 @@
+Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris and elevated blood pressure. He is currently being treated with beta blockers and ACE inhibitors for his hypertension. The patient's ECG shows evidence of left ventricular hypertrophy (LVH) and right atrial enlargement (RAE). These findings indicate that he has an increased workload due to LVH and RAE, which can be associated with HOCM.
+
+Findings (brief):
+The patient's ECG reveals significant changes in the electrical activity of the heart. Specifically, there is evidence of left ventricular hypertrophy (LVH) and right atrial enlargement (RAE). These findings are consistent with HOCM.
+
+Conclusion:
+Based on this ECG analysis, we conclude that the patient has hypertrophic obstructive cardiomyopathy (HOCM) as indicated by his clinical indications and findings. We recommend further evaluation with echoc

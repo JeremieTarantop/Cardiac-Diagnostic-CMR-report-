@@ -1,0 +1,5 @@
+Clinical Indication: This patient has an elevated QTc interval of 1.7 seconds, which is considered concerning for left ventricular dysfunction or arrhythmia. The findings indicate that there is likely a significant amount of pericardial fluid present, as evidenced by the presence of high levels of left atrial enlargement (aVL) and right atrial enlargement (aVF). Additionally, there appears to be evidence of left ventricular hypertrophy, as indicated by increased left ventricular end-diastolic volume (left VEF) and decreased left ventricular end-systolic volume (right VESF). These findings suggest that this patient's heart may be undergoing stress due to left ventricular dysfunction or arrhythmia.
+
+Findings (brief):
+- Left atrium enlargement (aVL): AVL = 1.70 mV/m², indicating a moderate increase in size compared to normal values.
+- Right atrium enlargement (aVF): AVF = 0.33 mV/m², indicating a

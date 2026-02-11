@@ -1,0 +1,4 @@
+Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris, dyslipidemia, and family history of premature coronary artery disease. He is currently being treated with beta blocker therapy for hypertension and statin medications for cholesterol management. The patient's ECG shows evidence of left ventricular hypertrophy (LVH) with reduced LVEF (<50%) and increased ST segment elevation (STS >1 mm/minute) in leads V1-V6. These findings support the clinical indication for further evaluation by an interventional cardiologist or cardiac catheterization laboratory.
+
+Findings (brief):
+The patient's ECG demonstrates evidence of LVH with reduced LVEF (<50%), increased ST segment elevation (>1 mm/minute) in leads V1-V6, and a sinus rhythm peripheral nidus systole (NRPNS) pattern. These findings indicate that the

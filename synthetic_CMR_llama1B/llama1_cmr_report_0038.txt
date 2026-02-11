@@ -1,0 +1,9 @@
+Clinical Indication: This patient has an abnormal ECG that suggests left ventricular hypertrophy or myocarditis. The findings of low voltage in leads indicate possible pericardial effusion.
+
+Findings:
+- Sinus rhythm with normal QRS complexes
+- Normal electrocardiographic parameters for sinus rhythm except for low voltage in leads I and V6 (<0.05 mV/mV)
+- Pericardial effusion detected by high amplitude in leads V1 through V6 (>0.1 mV/mV)
+
+Conclusion:
+Based on this ECG, we recommend further evaluation with echocardiography to confirm the diagnosis of left ventricular hypertrophy or myocarditis. We also advise monitoring for any worsening of symptoms over time as well as appropriate treatment if necessary.

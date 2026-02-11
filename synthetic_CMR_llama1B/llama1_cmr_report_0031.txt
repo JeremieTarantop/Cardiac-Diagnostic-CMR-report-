@@ -1,0 +1,11 @@
+Clinical Indication: This patient has been diagnosed with atrial fibrillation. The findings of this ECG indicate that there is evidence of left ventricular hypertrophy and pericardial effusion. These findings suggest an increased risk for future arrhythmia events or sudden death due to heart failure.
+
+Findings (brief):
+- Sinus rhythm: normal sinus rhythm
+- Supraventricular tachycardia: sinus rhythm with supraventricular tachycardia (SQT)
+- Ventricular tachycardia: sinus rhythm with ventricular tachycardia (VT)
+- Atrioventricular block: sinus rhythm with atrioventricular block (AVB)
+- Left bundle branch block: sinus rhythm with left bundle branch block (LBBB)
+- Right bundle branch block: sinus rhythm with right bundle branch block (RBBB)
+- Torsades de pointes: sinus rhythm with torsade de pointes (TdP)
+- Paroxysmal supravent

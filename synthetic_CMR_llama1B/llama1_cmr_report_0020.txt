@@ -1,0 +1,8 @@
+Clinical Indication: This patient has been diagnosed with an acute myocardial infarction due to left anterior descending artery occlusion. The patient is currently being treated with aspirin and statins for secondary prevention of future events.
+
+Findings (brief): The ECG shows evidence of supraventricular tachycardia (SWT) with atrial fibrillation (AF) and ventricular arrhythmias including supraventricular tachycardia (SVT) and right bundle branch block (RBBB). There is also evidence of left ventricular hypertrophy (LVH) and left atrium enlargement (LAE).
+
+Conclusion: The findings indicate that this patient's heart disease is likely related to left anterior descending artery occlusion, which caused SVT, RBBB, LAE, and LVH. The presence of AF suggests potential long-term complications such as atrial fibrillation or flutter. Aspirin and statins should be continued for primary prevention of further events.
+
+Metadata:
+- ECG report: sup

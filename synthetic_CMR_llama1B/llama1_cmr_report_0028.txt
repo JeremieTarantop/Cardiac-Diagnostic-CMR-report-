@@ -1,0 +1,8 @@
+Clinical Indication: This patient has been diagnosed with atrial fibrillation (AF) and is being evaluated for potential catheter ablation of AF. The patient's age, sex, and medical history indicate that she is at high risk for stroke due to her hypertension and prior myocardial infarction. She also suffers from left ventricular dysfunction as evidenced by an ejection fraction of only 30%. Her electrocardiogram shows evidence of paroxysmal supraventricular tachycardia (PSVT) and persistent SVT, which suggests the presence of AF.
+
+Findings (brief): The findings on the ECG include sinus rhythm with normal QRS complexes, but there is evidence of PSVT and persistent SVT. These findings suggest the presence of AF.
+
+Conclusion: Given the clinical indications and findings, we recommend performing a catheter ablation procedure to treat AF. We will perform this procedure within the next two weeks.
+
+References:
+[Insert references here]

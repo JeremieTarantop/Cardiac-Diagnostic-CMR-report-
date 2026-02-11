@@ -1,0 +1,13 @@
+Clinical Indications: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris, dyspnea upon exertion, and left ventricular systolic dysfunction. He is currently being treated with beta blockers and ACE inhibitors for his hypertension. The patient's family history includes two first cousins who have died from heart failure at an early age.
+
+Findings:
+- Sinus rhythm with normal QRS complexes (SCP diagnostic code NORM)
+- Left ventricle ejection fraction (EF) = 50%
+- Right ventricle EF = 20%
+- Left atrium size = 12 cm
+- Left main stem diameter = 10 mm
+- Right main stem diameter = 12 mm
+- Left anterior descending artery diameter = 10 mm
+- Coronary arteries diameter = 10 mm
+- Peripheral vascular resistance index (PVRI) = 0.00 mW/m²K
+- Mean pul

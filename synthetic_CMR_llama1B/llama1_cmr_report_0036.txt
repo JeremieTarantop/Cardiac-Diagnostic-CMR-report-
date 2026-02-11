@@ -1,0 +1,8 @@
+Clinical Indication: This patient has been diagnosed with hypertrophic obstructive cardiomyopathy (HOCM) based on his history of angina pectoris, dyspnea upon exertion, and left ventricular systolic dysfunction. He is currently being treated with beta blockers and ACE inhibitors for his hypertension. The patient's family history includes two first cousins who have died from heart failure at an early age.
+
+Findings (brief): There is evidence of leftward shifted T waves in leads I and aVF, suggesting left bundle branch block. There is also evidence of rightward shifting T waves in leads II and III, which suggests right bundle branch block. These findings suggest that the patient has HOCM.
+
+Conclusion: Based on this clinical indication and the findings, we can conclude that the patient has hypertrophic obstructive cardiomyopathy (HOCM). We recommend further evaluation by echocardiography or MRI to confirm our suspicion.
+
+Significant findings include:
+- Leftward shifted T waves in leads I and
