@@ -1,0 +1,27 @@
+Cardiac Magnetic Resonance Report
+
+Patient
+Adult male (age not provided)
+
+Clinical indication
+History and testing concerning for hypertrophic cardiomyopathy in the setting of angina pectoris, dyslipidemia, and elevated troponin. ECG reported to show left ventricular hypertrophy with right bundle branch block and ST segment depression. CMR requested to assess ventricular morphology and function, atrial size, and to evaluate for associated findings such as perfusion abnormality, myocardial scar, and pericardial disease.
+
+Findings
+Cardiac chambers and function
+Left ventricle
+•	Hypertrophied left ventricular myocardium consistent with left ventricular hypertrophy.
+•	Global left ventricular systolic function is preserved, with normal left ventricular ejection fraction.
+•	Regional wall motion assessment and quantitative volumes, mass, and stroke volume were not provided.
+
+Right ventricle
+•	Qualitative right ventricular size and systolic function were not provided.
+Atria
+•	Right atrium is enlarged (right atrial enlargement).
+Pericardium and extracardiac findings
+•	Pericardial effusion is present (size not provided).
+
+Impression
+1.	Left ventricular hypertrophy with preserved global systolic function (normal left ventricular ejection fraction as provided). In the clinical context, this supports hypertrophic cardiomyopathy, though the pattern of hypertrophy and the presence or absence of dynamic outflow obstruction are not documented here.
+2.	Right atrial enlargement.
+3.	Pericardial effusion (quantitative size and hemodynamic significance not provided).
+
