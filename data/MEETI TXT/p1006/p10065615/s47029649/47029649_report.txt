@@ -1,0 +1,1 @@
+--- Warning: Data quality may affect interpretation ---, Sinus rhythm., Lead(s) unsuitable for analysis: V4, Normal ECG based on available leads

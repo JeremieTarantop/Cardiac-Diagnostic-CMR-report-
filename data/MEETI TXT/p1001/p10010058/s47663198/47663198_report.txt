@@ -1,0 +1,1 @@
+Ventricular pacing; Possible sequence error: V2,V3 omitted; Pacemaker rhythm - no further analysis; Abnormal ECG.

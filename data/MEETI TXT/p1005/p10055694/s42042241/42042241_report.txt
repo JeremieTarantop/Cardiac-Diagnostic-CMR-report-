@@ -1,0 +1,1 @@
+Age not entered, assumed to be  50 years old for purpose of ECG interpretation, Atrial fibrillation, Consider RVH w/ secondary repol abnormality, Nonspecific T abnormalities, lateral leads

@@ -1,0 +1,13 @@
+Upon reviewing the provided 12-lead ECG, several key features can be observed and analyzed for clinical diagnosis. The ECG demonstrates a sinus rhythm with a heart rate of 77 bpm, and right bundle branch block (RBBB) is clearly evident. This is indicated by the widened QRS complexes, specifically with durations noted in various leads (e.g., 130 ms in Lead I and 128 ms in Lead II), often showing durations above 120 ms, and is further supported by the characteristic rsR' pattern seen in leads V1 and V2.
+
+In Lead I, the QRS duration elongation alongside an upslope ST-segment and the forms consistent across multiple heartbeats is indicative of RBBB. The T wave morphology is observed to be relatively normal without significant deviations, making lateral wall ischemia or infarction less likely. Lead II further confirms the RBBB with QRS prolongation and the consistently normal T wave amplitudes and durations.
+
+Leads III and aVF predominantly reflect the inferior wall and show amplitudes and durations within normal ranges without abnormal Q waves or significant ST-segment and T wave changes, thus reducing the likelihood of inferior wall ischemia or infarction.
+
+Lead aVR, although often non-specific, does show a somewhat notable T wave inversion, which needs careful interpretation but more data is needed to conclude its clinical significance. Meanwhile, lead aVL, demonstrating minor deviations in ST-segment but within normal QRS durations, helps rule out high lateral ischemia.
+
+Leads V1 and V2 provide further concrete evidence of right bundle branch block with their characteristic rsR’ pattern. The pronounced secondary R wave in Lead V1 alongside slight ST-segment deviations supports this diagnosis.
+
+The anterior leads (V2-V4) similarly confirm our initial findings without significant pathological Q waves or persistent ST-segment elevations. Additionally, lateral leads V5 and V6 exhibit normal QRS durations and T wave morphology, further reducing the likelihood of lateral ischemia or infarction.
+
+Synthesizing these observations leads to a primary diagnosis of a sinus rhythm with right bundle branch block. This is strongly supported by the QRS complex characteristics and patterns seen predominantly in precordial leads (V1-V2), alongside consistent confirmation across other leads without additional major ischemic changes.

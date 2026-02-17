@@ -1,0 +1,13 @@
+Analyzing the provided 12-lead ECG, multiple key findings support a diagnosis of extensive left ventricular hypertrophy (LVH) with secondary repolarization abnormalities, and resulting extensive ST-T changes. Observing the 12-lead ECG, sinus rhythm is noted with a heart rate of approximately 82 beats per minute. 
+
+In Lead I, marked increases in the QRS amplitude, duration, and secondary ST-T changes are indicative of LVH, evidenced by QRS amplitudes approaching 0.941 mV and durations extending to 144 ms. Additionally, observed ST segment depression and T wave attenuation support secondary repolarization changes. 
+
+Similarly, in Lead II, normal P wave durations and amplitudes are noted indicating sinus rhythm, but QRS values and extended durations corroborate LVH. Consistent with these findings, extensive horizontal ST depressions and diminished T wave amplitudes are present in Leads III and aVF, underscoring the inferolateral effects of LVH.
+
+Lead V1 reveals increased R wave amplitude and right ventricular prominence indicating associated hypertrophy effects. This is echoed across anterior leads (V2-V4), where pronounced elevated QRS values and prolonged durations stress the hypertrophic impact on electrical conduction. Moreover, subtle downslope of the ST segments and T wave changes further affirm secondary repolarization abnormalities from LVH.
+
+Leads V5 and V6 display similar voltage criteria for LVH coupled with ST depressions and altered T waves, solidifying the diagnosis. In lead aVL, prolonged QRS duration (up to 140 ms) and evidence of significant T wave inversion denote high lateral wall involvement further suggesting LVH.
+
+Additionally, extensive bilateral observations of particularly elevated QTc intervals (notably in lead V4 at 551 ms and in V6 at 626 ms) raise concern for potential arrhythmogenic risk stemming from the hypertrophic changes. 
+
+In conclusion, the collective ECG findings strongly indicate LVH with secondary repolarization abnormalities, underscored by widespread QRS enlargement, ST-T changes, and enhanced QTc intervals, confirming the abnormal ECG diagnosis.

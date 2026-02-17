@@ -1,0 +1,1 @@
+Age not entered, assumed to be  50 years old for purpose of ECG interpretation, Sinus rhythm, Probable left atrial enlargement

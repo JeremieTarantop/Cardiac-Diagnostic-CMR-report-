@@ -1,0 +1,1 @@
+Age not entered, assumed to be  50 years old for purpose of ECG interpretation, Atrial fibrillation, Ventricular premature complex, Incomplete right bundle branch block, LVH with IVCD, LAD and secondary repol abnrm, Inferior infarct, old, Prolonged QT interval

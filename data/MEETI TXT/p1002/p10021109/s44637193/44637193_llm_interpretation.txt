@@ -1,0 +1,11 @@
+Upon initial analysis, this 12-lead ECG shows a consistent sinus rhythm with a heart rate of approximately 70 bpm, which falls within normal limits. However, there are notable abnormalities observed across multiple leads that suggest significant findings. Starting with Lead I, the QRS duration is prolonged in several heartbeats with values up to 132 ms, indicating a delay in ventricular depolarization consistent with right bundle branch block (RBBB). The ST segment appears to be consistently upslope without elevation or depression, and the T wave morphology doesn't present significant abnormalities, although it's mildly elevated in some instances.
+
+In Lead II, the prominent PR interval fluctuations suggest minor variations in atrioventricular conduction, yet there are no gross deviations. Notably, QRS durations extend to 134 ms, consistent again with RBBB. The ST segment exhibits occasional upslope, with some downsloping noted, and the T wave presents with mild non-specific changes.
+
+Leads III and aVF mainly show minimal QRS complex representation with some P wave abnormalities and variable PR intervals. The minor QRS amplitudes and durations in Lead aVL paired with consistent ST declination support a lack of high lateral ischemia but reflect conduction aberrations typical of the RBBB pattern.
+
+Lead aVR demonstrates prolonged P waves and isolated PR interval shortening, along with the observation of no QRS complexes, underlining the standard RBBB presentation with predictable reciprocal changes.
+
+In the precordial leads, specifically V1 through V6, there is a recurrent theme of increased QRS durations, particularly visible in V1 and V2, further validating RBBB. The presence of rsR′ pattern particularly in lead V1, along with broad S waves in leads V5-V6, reinforces this diagnosis. Moreover, the elevated T waves in these leads are typically compensatory for the altered depolarization sequence.
+
+Collectively, the major findings across these leads—prolonged QRS complex durations, distinct ST-T wave patterns, and variable PR intervals—all converge to indicate a right bundle branch block without acute ischemic evidence. Hence, the overall interpretation confirms a sinus rhythm with right bundle branch block, leading to an abnormal ECG presentation.

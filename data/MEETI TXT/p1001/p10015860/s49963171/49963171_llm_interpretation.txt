@@ -1,0 +1,9 @@
+The ECG image and corresponding computed measurements indicate a case of sinus tachycardia with premature atrial contractions (PACs). The heart rate is elevated at 118 bpm. The irregularity in the RR intervals, notably a few shorter intervals interspersed among longer ones, signifies the presence of PACs.
+
+On examining each lead, several observations were made. In Lead I, the QRS duration is predominantly within normal limits, with durations ranging between 100-114 ms. The ST segment displays an upslope formation, and T wave morphology appears consistent. Lead II reveals prominent P waves and irregular PR intervals which confirm atrial activities characteristic of PACs, with PR intervals fluctuating significantly and a few shorter than the normal range.
+
+No significant anomalies are observed in Lead III, aVR, or aVF, with atrial activity appearing largely normal. Leads V1 through V6 show consistent QRS morphology and duration. Leads V2 and V3 display normal T amplitudes and durations, while Lead V4 has some variation in T wave height, yet without pathological significance. 
+
+The QT and QTc intervals across most leads are within their acceptable range, accounting for a slightly prolonged QTc in some leads due to the heightened heart rate. Upsloping ST segments across multiple leads, including Leads V1 to V6, negate the presence of any acute ischemia or infarction.
+
+Overall, the examination of the leads points to a benign sinus tachycardia with intermittent PACs, without any significant structural or ischemic abnormalities identified across the various leads. This assessment aligns with normal findings apart from the noted increased heart rate and occasional PACs, which typically do not signify any severe underlying pathology in the context of this ECG profile.

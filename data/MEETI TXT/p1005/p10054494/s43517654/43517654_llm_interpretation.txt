@@ -1,0 +1,9 @@
+The analysis of the provided ECG image reveals a sinus rhythm with a heart rate of 96 beats per minute. The QRS voltages in the precordial leads are observed to be notably low, particularly in leads V1 to V6, contributing to a classification of borderline ECG. This finding of low QRS voltages could suggest various underlying conditions, including obesity, pericardial effusion, or chronic obstructive pulmonary disease, but further clinical correlation is needed for a definitive cause. 
+
+Inspection of lead I does not show any significant deviation in ST segment or T wave, aligning with a relatively unremarkable lateral wall presentation. Lead II displays a standard P wave morphology with no significant atrial enlargement, and the PR intervals fall within normal limits, indicating intact AV conduction. 
+
+In leads III and aVF, the absence of pathological Q waves or significant ST or T wave changes suggests no apparent evidence of acute inferior wall ischemia or infarction. Similarly, lead aVL shows no high lateral ischemic changes. Although lead aVR sometimes provides insights into critical conditions, no significant findings such as pronounced ST elevation are noted here.
+
+In the anterior leads V1 through V4, the low QRS voltages persist, yet there are no pathologic Q waves or ST elevation, further suggesting no acute anteroseptal infarction. Lateral precordial leads V5 and V6 also echo similar low QRS amplitude findings, without additional lateral ischemic indications. Overall, the ECG depiction aligns with sinus rhythm and low voltage features without acute ischemic changes, supporting the "borderline ECG" label.
+
+Conclusively, while there are low voltages in the precordial leads, the absence of significant ST-T changes, pathologic Q waves, or prolonged intervals maintains a classification of a borderline ECG, warranting a thorough check against the patient’s clinical context for comprehensive cardiovascular assessment.

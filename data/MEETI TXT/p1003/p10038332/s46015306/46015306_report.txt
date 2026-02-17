@@ -1,0 +1,1 @@
+Age not entered, assumed to be  50 years old for purpose of ECG interpretation, Sinus rhythm, LAD, consider left anterior fascicular block, Abnormal R-wave progression, early transition, ST elevation, consider inferior injury

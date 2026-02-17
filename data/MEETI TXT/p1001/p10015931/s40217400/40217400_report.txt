@@ -1,0 +1,1 @@
+Age not entered, assumed to be  50 years old for purpose of ECG interpretation, Atrial fibrillation, Low voltage, extremity leads, Probable LVH with secondary repol abnrm

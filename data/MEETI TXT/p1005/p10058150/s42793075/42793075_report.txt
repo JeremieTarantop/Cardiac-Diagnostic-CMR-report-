@@ -1,0 +1,1 @@
+Age not entered, assumed to be  50 years old for purpose of ECG interpretation, Sinus tachycardia, Paired ventricular premature complexes, Right bundle branch block, LVH with IVCD and secondary repol abnrm

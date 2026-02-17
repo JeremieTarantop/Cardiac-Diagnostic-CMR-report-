@@ -1,0 +1,9 @@
+Upon analyzing the ECG image and machine measurements, the primary rhythm observed is sinus tachycardia, given the heart rate of 107 bpm. The overall structure of the ECG appears largely normal aside from the elevated rate. 
+
+In lead I, the P wave amplitude and the QRS duration vary within normal ranges, with T waves showing mostly non-significant amplitude variations and ST segment mostly indicating normal upsloping and declination patterns. The PR intervals and QRS amplitudes in lead II are also consistent with normalcy, although the increased heart rate is evident in the shorter RR intervals.
+
+Examining lead III and aVF, which focus on the inferior wall, there are no significant abnormalities in Q waves, ST segments, or T wave morphology that suggest infarction or ischemia. The waveform patterns generally indicate horizontal or slight declination in ST segments, which aligns with normal ECG features. Leads aVL and aVR display typical properties with their T wave and ST segment patterns, and no critical alerts arise from these leads under usual scrutiny for lateral or multivessel disease.
+
+For the precordial leads (V1–V6), which assess different parts of the heart, there are no substantial deviations in P wave, PR intervals, or QRS durations that might indicate any pathological changes such as ventricular hypertrophy, ischemia, or infarction. Particularly, the T wave patterns and ST durations appear within expected ranges.
+
+No significant variations are found across the leads that would suggest major structural heart changes or acute abnormal events. The QT and QTc intervals are within acceptable ranges across all leads, accounting for the increased heart rate. Overall, the findings support a clinical diagnosis of sinus tachycardia with no further significant ECG abnormalities.
