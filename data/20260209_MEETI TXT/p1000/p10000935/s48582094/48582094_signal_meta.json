@@ -1,0 +1,22 @@
+{
+  "shape": [
+    5000,
+    12
+  ],
+  "lead_order": [
+    "I",
+    "II",
+    "III",
+    "aVR",
+    "aVL",
+    "aVF",
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6"
+  ],
+  "dtype": "float64",
+  "sampling_hz": null
+}

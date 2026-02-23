@@ -1,0 +1,38 @@
+{
+  "shape": [
+    12,
+    16,
+    14
+  ],
+  "lead_order": [
+    "I",
+    "II",
+    "III",
+    "aVR",
+    "aVL",
+    "aVF",
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6"
+  ],
+  "feature_names": [
+    "HR",
+    "RR1",
+    "RR2",
+    "P_amplitude",
+    "P_duration",
+    "PR_interval",
+    "QRS_amplitude",
+    "QRS_duration",
+    "T_amplitude",
+    "T_duration",
+    "ST_duration",
+    "ST_form",
+    "QT_interval",
+    "QTc"
+  ],
+  "dtype": "float64"
+}
