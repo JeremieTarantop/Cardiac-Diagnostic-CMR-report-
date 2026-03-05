@@ -1,3 +1,5 @@
+# OLD version, to be updated (March 2026)
+
 # Cardiac Diagnostic CMR Report
 
 Generate **CMR-style (Cardiac Magnetic Resonance) reports** from ECG data using local LLMs. All processing can run locally (IRB-friendly) or on **Google Colab with GPU** for faster generation.
